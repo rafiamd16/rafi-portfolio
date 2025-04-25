@@ -13,7 +13,7 @@ const Home = () => {
                 <span className='block mt-1 text-4xl font-bold dark:text-white md:text-5xl'>Rafi Ahmad</span>
               </h1>
               <h2 className='mb-5 text-lg font-medium text-slate-500 md:text-2xl'>
-                Student & <span className='text-black dark:text-white'>Programmer</span>
+                Student & <span className='text-black dark:text-white'>Frontend Developer</span>
               </h2>
               <p className='mb-10 font-medium leading-relaxed text-slate-500'>
                 Belajar web programming bukan tentang seberapa cepat, tapi seberapa{' '}
